@@ -183,7 +183,7 @@ negspacy==1.0.3
 nest-asyncio==1.5.5
 networkx==2.8.8
 nfoursid==1.0.1
-nltk==3.7
+nltk==3.9
 nmslib==2.1.1
 notebook==6.4.11
 notebook-shim==0.1.0
