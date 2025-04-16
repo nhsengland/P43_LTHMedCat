@@ -117,7 +117,7 @@ importlib-metadata==5.1.0
 importlib-resources==5.7.1
 inference-schema==1.4.0.1
 ipykernel==6.13.0
-ipython==8.2.0
+ipython==8.10.0
 ipython-genutils==0.2.0
 ipywidgets==7.7.0
 isodate==0.6.1
